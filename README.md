@@ -19,7 +19,9 @@
     * Arapahoe: 6.7%   (24,801)
     
   + Which county had the largest number of votes?
+    Although I can´t display this value in the txt file, when I run my program in parts it shows the county with the largest number of votes.
     The county with the largest number of votes is: `"Denver"`
+![WinningCounty](/Resources/winning_county.png)
     
   + Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
@@ -42,3 +44,19 @@
 ## Resources
   * Data source: election_result.csv
   * Software: Python 3.9.2, Visual Studio code, Version: 1.66.1 .
+
+## Summary
+  
+  The analysis of the election shows that:
+  - There were 369,711 votes cast in the election.
+  - The candidate were:
+    - Candidate 1 = **Charles Casper Stockham**
+    - Candidate 2 = **Diana DeGette**
+    - Candidate 3 = **Raymond Anthony Doane**
+    
+  - The candidate results were:
+    - Candidate 1 received **"23.0 %"** of the vote and **"85,213"** number of votes.
+    - Candidate 2 received **"73.8 %"** of the vote and **"272,892"** number of votes.
+    - Candidate 3 received **"3.1 %"** of the vote and **"11,606"** number of votes. 
+  - The winner of the election was:
+    - **Candidate 2 "Diana DeGette"** who recieved **"73.8 %"** of the votes and **"272,892"** number of votes.
