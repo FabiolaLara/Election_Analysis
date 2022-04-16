@@ -6,7 +6,7 @@
 
   The porpuse of this election analysis is to retrieve some specific values. To start with, It was asked to determine the Total number of votes, then it is neccesary to calculate the total votes by County, as their percentage in voting respectivately. Finally we have to retrieve the county for the largest voter turnout. 
   
-> 2.Election-Audit Results
+> 2. Election-Audit Results
   + How many votes were cast in this congressional election?
   
     The number of votes casting for this exercise were: 369,711.
@@ -21,6 +21,7 @@
   + Which county had the largest number of votes?
     Although I can´t display this value in the txt file, when I run my program in parts it shows the county with the largest number of votes.
     The county with the largest number of votes is: `"Denver"`
+    
 ![WinningCounty](/Resources/winning_county.png)
     
   + Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
@@ -37,7 +38,7 @@
     
 ![ElectionResults](/Resources/electionResult.png)
 
-> 3.Election-Audit Summary.In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+> 3. Election-Audit Summary.In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
   About this analysis we could summarize that it is very useful, we could add some others fields to our data, like the kind of sex for voters so we could make some specific politic proposals, the we could storage the count for each sex in a counter, and have the total for each kind of sex. Another important thing we can do is to evaluate the age for the voters, due it is necesary to know in what kind of fields the candidates have to invest more  for this we need to have one field for the age, then we have to put this values in a list, we order this in ascending form, then we can apply a `for` for all the values in the list, and an `If` condition to make a range of values, with that ranges we could assing to a some `variables` like young, adult, old, etc. Definitely we can take many advantages with this analysis, just by adding some fields and of course programming with them.
 
