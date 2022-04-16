@@ -32,6 +32,8 @@
     * The winner for this election was:
     
     **Diana DeGette with `272,892` votes, her porcentage number over the others candidates was `73.8%`.**
+    
+![ElectionResults](/Resources/electionResult.png)
 
 3.Election-Audit Summary. In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
