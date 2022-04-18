@@ -22,7 +22,7 @@
     Although I can´t display this value in the txt file, when I run my program in parts it shows the county with the largest number of votes.
     The county with the largest number of votes is: `"Denver"`
     
-![WinningCounty](/Resources/winning_county.png)
+![WinningCounty](/Resources/electionResults.png)
     
   + Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
@@ -36,7 +36,6 @@
     
     **Diana DeGette with `272,892` votes, her porcentage number over the others candidates was `73.8%`.**
     
-![ElectionResults](/Resources/electionResult.png)
 
 > 3. Election-Audit Summary.In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
@@ -61,3 +60,5 @@
     - Candidate 3 received **"3.1 %"** of the vote and **"11,606"** number of votes. 
   - The winner of the election was:
     - **Candidate 2 "Diana DeGette"** who recieved **"73.8 %"** of the votes and **"272,892"** number of votes.
+
+![ElectionResults](/Resources/electionResultstxt.png)
